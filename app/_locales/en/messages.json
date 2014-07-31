@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "canopy TC screenshotShower",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Shows screenshots for failed canopy tests in TeamCity",
+    "description": "The description of the application"
+  }
+}
