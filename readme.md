@@ -5,7 +5,7 @@
 Chrome extension for [TeamCity](http://www.jetbrains.com/teamcity/) to show screenshots of failed [canopy](http://lefthandedgoat.github.io/canopy/) tests
 
 ## Installation ###
-1. Download [extension](http://monosnap.com/file/jIH2EDJCl70N1kveHqtyaKviuMdUwU).
+1. Download [extension](https://github.com/skalinets/canopyshots/raw/master/canopy-TC-screenshotShower.crx)
 2. Open **chrome://extensions** in Chrome 
 3. Drag & Drop downloaded file from step #1 into extensions page
  
